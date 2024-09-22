@@ -15,6 +15,10 @@ Resources and documents related to the 'Best Practices in AI in Assessments' ple
 
 **American Association of Medical Colleges (AAMC)** - [Artificial Intelligence (AI) in Academic Medicine Webinar Series](https://www.aamc.org/about-us/mission-areas/medical-education/artificial-intelligence-ai-academic-medicine-webinar-series)
 
+[Duolingo English Test and Responsible AI: Pioneering Ethical Digital-First Assessment Practices](https://www.linkedin.com/pulse/duolingo-english-test-responsible-ai-pioneering-ethical-eric-tucker-eyn7c/)
+
+
+
 
 
 
