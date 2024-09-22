@@ -13,6 +13,6 @@ Some helpful links:
 
 **Unisted States Department of State** [Risk Management Profile for Artificial Intelligence and Human Rights](https://www.state.gov/risk-management-profile-for-ai-and-human-rights/)
 
-[**EU Artificial Intelligence Act**](https://artificialintelligenceact.eu/) - Provides high-level summaries, articles related to the act, and a 'compliance checker' to identify how the AI Act may affect you.
+[**EU Artificial Intelligence Act**](https://artificialintelligenceact.eu/) - Provides high-level summaries, articles related to the act, and a '[compliance checker](https://artificialintelligenceact.eu/assessment/eu-ai-act-compliance-checker/)' to identify how the AI Act may affect you.
 
 
