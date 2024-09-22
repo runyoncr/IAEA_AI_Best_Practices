@@ -1,5 +1,5 @@
 # IAEA_AI_Best_Practices
-Resources and documents related to the 'Best Practices in AI in Assessments' plenary panel at the 2024 IAEA conference
+Resources and documents related to the 'Best Practices in AI in Assessments' plenary panel at the 2024 IAEA conference. Individual PDFs can be downloaded from above.
 
 **UNESCO - Recommendation on the Ethics of Artificial Intelligence** - A global, normative framework for ethical AI development endorsed by 193 member states, focusing on human dignity and ecological sustainability.
 - [UNESCO AI Ethics Framework](https://unesdoc.unesco.org/ark:/48223/pf0000377897)
