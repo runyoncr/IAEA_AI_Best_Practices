@@ -13,9 +13,6 @@ Resources and documents related to the 'Best Practices in AI in Assessments' ple
 
 [**EU Artificial Intelligence Act**](https://artificialintelligenceact.eu/) - Provides high-level summaries, articles related to the act, and a '[compliance checker](https://artificialintelligenceact.eu/assessment/eu-ai-act-compliance-checker/)' to identify how the AI Act may affect you.
 
-<a href="https://www.google.com/" target="_blank">Example Link</a>
-
-
 **American Association of Medical Colleges (AAMC)** - [Artificial Intelligence (AI) in Academic Medicine Webinar Series](https://www.aamc.org/about-us/mission-areas/medical-education/artificial-intelligence-ai-academic-medicine-webinar-series)
 
 
