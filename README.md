@@ -3,7 +3,9 @@ Resources and documents related to the 'Best Practices in AI in Assessments' ple
 
 Some helpful links:
 
-[United States of America Department of Education - Office of Educational Technology - Artificial Intelligence](https://tech.ed.gov/ai/) - Includes the [Designing for Education with Artifical Intelligence : An Essential Guide for Developers](https://tech.ed.gov/designing-for-education-with-artificial-intelligence/) and [Artificial Intelligence and the Future of Teaching and Learning](https://tech.ed.gov/ai-future-of-teaching-and-learning/) whitepapers, links to listening sessions posted on YouTube, and related blog posts.
+[United States of America Department of Education - Office of Educational Technology - Artificial Intelligence](https://tech.ed.gov/ai/) - includes links to listening sessions posted on YouTube, and related blog posts
+- [Designing for Education with Artifical Intelligence : An Essential Guide for Developers](https://tech.ed.gov/designing-for-education-with-artificial-intelligence/)
+- [Artificial Intelligence and the Future of Teaching and Learning](https://tech.ed.gov/ai-future-of-teaching-and-learning/) 
 
 United States National Institute of Standards and Technology (NIST; US Department of Commerce) - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) 
 
