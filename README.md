@@ -15,4 +15,8 @@ Some helpful links:
 
 [**EU Artificial Intelligence Act**](https://artificialintelligenceact.eu/) - Provides high-level summaries, articles related to the act, and a '[compliance checker](https://artificialintelligenceact.eu/assessment/eu-ai-act-compliance-checker/)' to identify how the AI Act may affect you.
 
+**American Association of Medical Colleges (AAMC)** - [Artificial Intelligence (AI) in Academic Medicine Webinar Series](https://www.aamc.org/about-us/mission-areas/medical-education/artificial-intelligence-ai-academic-medicine-webinar-series)
+
+
+
 
