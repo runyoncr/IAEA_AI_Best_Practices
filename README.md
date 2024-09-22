@@ -7,9 +7,6 @@ Resources and documents related to the 'Best Practices in AI in Assessments' ple
 **OECD AI Principles** - The Organisation for Economic Co-operation and Development (OECD) offers a set of AI principles to promote innovative and trustworthy AI systems that respect human rights and democratic values.
 - [OECD AI Policy Observatory](https://oecd.ai/en/)
 
-**World Economic Forum (WEF) Global AI Toolkit** - A resource designed to help businesses and governments develop responsible AI practices and policies.
-- [WEF AI Toolkit](https://www.weforum.org/projects/responsible-ai-leadership)
-
 **United States of America Department of Education** [Office of Educational Technology - Artificial Intelligence](https://tech.ed.gov/ai/) - includes links to listening sessions posted on YouTube, and related blog posts
 - [Designing for Education with Artifical Intelligence : An Essential Guide for Developers](https://tech.ed.gov/designing-for-education-with-artificial-intelligence/)
 - [Artificial Intelligence and the Future of Teaching and Learning](https://tech.ed.gov/ai-future-of-teaching-and-learning/) 
