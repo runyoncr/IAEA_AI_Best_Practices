@@ -25,9 +25,6 @@ Panelists
 
 [**EU Artificial Intelligence Act**](https://artificialintelligenceact.eu/) - Provides high-level summaries, articles related to the act, and a '[compliance checker](https://artificialintelligenceact.eu/assessment/eu-ai-act-compliance-checker/)' to identify how the AI Act may affect you.
 
-**European Commission’s Ethics Guidelines for Trustworthy AI** - A key EU document that outlines ethical principles, including privacy, transparency, and accountability.
-- [Ethics Guidelines for Trustworthy AI](https://ec.europa.eu/digital-strategy/publications/ethics-guidelines-trustworthy-ai_en)
-
 **American Association of Medical Colleges (AAMC)** - [Artificial Intelligence (AI) in Academic Medicine Webinar Series](https://www.aamc.org/about-us/mission-areas/medical-education/artificial-intelligence-ai-academic-medicine-webinar-series)
 
 [**ITC-ATP guidelines for technology-based assessment**](https://www.intestcom.org/page/16) - [PDF Download](https://www.intestcom.org/upload/media-library/tba-guidelines-final-2-23-2023-v4-167785144642TgY.pdf)
