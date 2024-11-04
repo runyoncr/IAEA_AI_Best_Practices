@@ -21,7 +21,7 @@ Panelists
 
 - [NIST Trustworthy and Responsible AI - Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile (full pdf)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf)
 
-**Unisted States Department of State** [Risk Management Profile for Artificial Intelligence and Human Rights](https://www.state.gov/risk-management-profile-for-ai-and-human-rights/)
+**United States Department of State** [Risk Management Profile for Artificial Intelligence and Human Rights](https://www.state.gov/risk-management-profile-for-ai-and-human-rights/)
 
 [**EU Artificial Intelligence Act**](https://artificialintelligenceact.eu/) - Provides high-level summaries, articles related to the act, and a '[compliance checker](https://artificialintelligenceact.eu/assessment/eu-ai-act-compliance-checker/)' to identify how the AI Act may affect you.
 
