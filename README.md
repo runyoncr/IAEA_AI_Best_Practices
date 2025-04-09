@@ -25,7 +25,9 @@ Panelists
 
 [**EU Artificial Intelligence Act**](https://artificialintelligenceact.eu/) - Provides high-level summaries, articles related to the act, and a '[compliance checker](https://artificialintelligenceact.eu/assessment/eu-ai-act-compliance-checker/)' to identify how the AI Act may affect you.
 
-**American Association of Medical Colleges (AAMC)** - [Artificial Intelligence (AI) in Academic Medicine Webinar Series](https://www.aamc.org/about-us/mission-areas/medical-education/artificial-intelligence-ai-academic-medicine-webinar-series)
+**American Association of Medical Colleges (AAMC)**
+- [**Principles for the Responsible Use of Artificial Intelligence in and for Medical Education**](https://www.aamc.org/about-us/mission-areas/medical-education/principles-ai-use)
+- [**Artificial Intelligence (AI) in Academic Medicine Webinar Series**](https://www.aamc.org/about-us/mission-areas/medical-education/artificial-intelligence-ai-academic-medicine-webinar-series)
 
 [**ITC-ATP guidelines for technology-based assessment**](https://www.intestcom.org/page/16) - [PDF Download](https://www.intestcom.org/upload/media-library/tba-guidelines-final-2-23-2023-v4-167785144642TgY.pdf)
 
